@@ -40,7 +40,7 @@ This project uses the [OpenSubtitles-TW-Corpus (en-zh_tw)](https://huggingface.c
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. **Train the Model**
 Run the following command:
