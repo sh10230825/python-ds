@@ -1,0 +1,5 @@
+# Ignore the /__pycache__
+**/__pycache__/
+
+# Ignore the /pic
+**/pic/
