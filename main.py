@@ -14,7 +14,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Hyperparameters
 BATCH_SIZE = 4
-MAX_SAMPLES = 100000 # Can be modify by user
+MAX_SAMPLES = 100000 # Can be modified by users
 N_EPOCHS = 20
 EMB_DIM = 256
 HID_DIM = 512
